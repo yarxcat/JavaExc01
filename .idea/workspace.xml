@@ -5,19 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="30104cb3-43c5-476e-9c71-e79185949fe9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaUdemy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CalculandoValorDePecas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CalculoComDouble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CalculoDeRaio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DiferencaDoProduto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SalarioPorHora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SomaInteiro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CalculoHora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ImpaOuPar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ImpostoDeRenda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Intervalos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multiplos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NegativoOuNao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PlanoCartesiano.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TabelaLanches.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,37 +47,37 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CalculoComDouble">
-    <configuration name="CalculandoValorDePecas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CalculandoValorDePecas" />
+  <component name="RunManager" selected="Application.ImpostoDeRenda">
+    <configuration name="CalculoHora" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CalculoHora" />
       <module name="javaUdemy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculoComDouble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CalculoComDouble" />
+    <configuration name="ImpostoDeRenda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ImpostoDeRenda" />
       <module name="javaUdemy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculoDeRaio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CalculoDeRaio" />
+    <configuration name="Intervalos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Intervalos" />
       <module name="javaUdemy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DiferencaDoProduto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DiferencaDoProduto" />
+    <configuration name="PlanoCartesiano" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PlanoCartesiano" />
       <module name="javaUdemy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SalarioPorHora" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SalarioPorHora" />
+    <configuration name="TabelaLanches" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TabelaLanches" />
       <module name="javaUdemy" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -89,11 +85,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CalculoComDouble" />
-        <item itemvalue="Application.CalculandoValorDePecas" />
-        <item itemvalue="Application.SalarioPorHora" />
-        <item itemvalue="Application.DiferencaDoProduto" />
-        <item itemvalue="Application.CalculoDeRaio" />
+        <item itemvalue="Application.ImpostoDeRenda" />
+        <item itemvalue="Application.PlanoCartesiano" />
+        <item itemvalue="Application.Intervalos" />
+        <item itemvalue="Application.TabelaLanches" />
+        <item itemvalue="Application.CalculoHora" />
       </list>
     </recent_temporary>
   </component>
