@@ -1,3 +1,5 @@
+package excbasic;
+
 import java.util.Scanner;
 public class CalculoHora {
     public static void main(String[] args){
